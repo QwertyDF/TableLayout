@@ -1,0 +1,2 @@
+include ':app', ':myapplication', ':clickbtn', ':aboutmr'
+rootProject.name='TableLayout'
